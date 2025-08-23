@@ -8,7 +8,7 @@ else:
 
 
 # 1) ¿Qué pasa si el usuario ingresa la contraseña con mayúsculas? > La contrasenha es considerada incorrecta, porque solo se acepta en miniscula
-# ¿Cómo mejorarías el programa para dar más intentos? Agregaria un while
+# 2) ¿Cómo mejorarías el programa para dar más intentos? Agregaria un while
 
 contrasena_correcta = "programacion1"
 intentos = 5
