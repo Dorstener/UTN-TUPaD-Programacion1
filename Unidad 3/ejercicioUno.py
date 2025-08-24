@@ -1,6 +1,9 @@
 contrasena_correcta = "programacion1"
+
+# Le pedimos al usuario que ingrese la contrasenha
 contrasena_usuario = input("Introduce la contraseña: ")
 
+# Comparamos la "contrasenha del usuario" con la "contrasenha correcta" y si es correcta se muestra el resultado positivo, sino, se le informa que es incorrecta
 if contrasena_usuario == contrasena_correcta:
     print("Contraseña correcta. Bienvenido.")
 else: 

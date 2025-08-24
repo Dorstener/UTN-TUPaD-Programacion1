@@ -5,9 +5,10 @@
 # 2. Si es una vocal (a, e, i, o, u, en mayúscula o minúscula), imprime: "La letra ingresada es una vocal".
 # 3. En otro caso, imprime: "La letra ingresada no es una vocal".
 
-
+# Le solicitamos al usuario que ingrese una vocal
 letra = input("Ingrese una letra: ")
 
+# Chequeamos que la letra ingresada por el usuario es una vocal, tanto en minuscula como en mayuscula. Si es correcto, se le informa que es una vocal, sino, se le dice que no es una vocal)
 if (letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra == "u" or letra == "A" or letra == "E" or letra == "I" or letra == "O" or letra == "U"):
     print("La letra ingresada es una vocal")
 else:

@@ -6,8 +6,10 @@
 # 3. Si es negativo, imprime: "El número es negativo".
 # 4. Si es cero, imprime: "El número es cero".
 
+# Le solicitamos al usuario ingresar un numero
 num = int(input("Ingrese un numero: "))
 
+# Comparamos el numero para saber si es positivo, negativo o cero
 if (num > 0):
     print("El número es positivo")
 elif (num < 0):
