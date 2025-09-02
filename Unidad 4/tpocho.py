@@ -8,7 +8,7 @@ impar = 0
 neg = 0
 pos = 0
 
-for x in range (0,11):
+for x in range (0,101):
     num = int(input("Ingresa un numero: "))
     if num % 2 == 0: 
         par = par + 1
