@@ -4,7 +4,6 @@
 # • Indicar la nota más alta y la más baja.
 
 notas = [7,8,9.5,7.5,8,10,4,6,2,9]
-
 suma_notas = sum(notas)
 cant_notas = (len(notas))
 promedio = (suma_notas/cant_notas)
