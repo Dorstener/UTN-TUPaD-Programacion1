@@ -9,5 +9,4 @@ precio_frutas = {'Banana': 1200, 'Ananá': 2500, 'Melon': 3000, 'Uva': 1450, 'Na
 precio_frutas['Banana'] = 1330
 precio_frutas['Manzana'] = 1700
 precio_frutas['Melon'] = 2800
-
 print(precio_frutas)
