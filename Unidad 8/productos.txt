@@ -1,4 +1,3 @@
-Nombre,Precio,Cantidad
 Pelota,80,50
 Camiseta de Futbol,120,250
 Guantes de Arquero,10,30
